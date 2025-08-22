@@ -1,4 +1,4 @@
-Java Projects (Codsoft Internship)
+## Java Projects (Codsoft Internship)
 
 During my Codsoft Internship, I developed the following Java projects:
 
